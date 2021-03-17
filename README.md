@@ -1,1 +1,1 @@
-# Petnica-Summer-Institute-Machine-Learning---Homework-Assignmnets
+## Petnica Summer Institute Machine-Learning - Homework Assignmnets
