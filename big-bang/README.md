@@ -1,3 +1,5 @@
+# BigBang
+
 This is the explanation of the *BigBang Task*. You can find me solution [here](https://github.com/emirdemic/Petnica-Summer-Institute-Machine-Learning---Homework-Assignmnets/blob/main/big-bang/big_bang.py) which got 960/1000 points. Unfortunately, I knew immediately what I got wrong and
 what could have been improved, but I didn't have any time remaining.
 
