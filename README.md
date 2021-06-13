@@ -1,4 +1,4 @@
-## Petnica Summer Institute Machine-Learning - Homework Assignmnets
+## Petnica Summer Institute Machine-Learning - Homework Assignments
 
 This repository holds my solutions to PSI ML homework assignemnts
 There were a total of four different tasks, with one serving only as the "warm up" task.
