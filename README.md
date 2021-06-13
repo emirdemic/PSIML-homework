@@ -1,6 +1,6 @@
 ## Petnica Summer Institute Machine-Learning - Homework Assignments
 
-This repository holds my solutions to PSI ML homework assignemnts. <br/> 
+This repository holds my solutions to <b>PSI ML homework assignemnts</b>. <br/> <br/> 
 PSI ML is a summer programme organized by Petnica Science Center aimed at graduate students interested in Machine Learning. <br/>
 In September 2021 we will have the opportunity to attend lectures held by experts in this field (professors from University of Belgrade as well as engineers from Microsoft and other companies) and work on our own ML projects. <br/>
 There were a total of three different tasks during the selection process, and you can find my solutions on the links below.
